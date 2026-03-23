@@ -3,7 +3,6 @@
 <p align="center">
   <strong>AI Engineer &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; LLMs</strong><br>
   Islamabad, Pakistan &nbsp;·&nbsp;
-  <a href="mailto:waqassch495@gmail.com">waqassch495@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/waqas495">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Waqas649">GitHub</a>
 </p>
