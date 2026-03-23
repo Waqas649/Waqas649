@@ -43,7 +43,7 @@ AI Engineer with 3+ years building production-grade systems across **Agentic AI*
 | [ANPR-Based Vehicle Parking Entry System](https://github.com/Waqas649/Metro-Gate-Entry) | Automated vehicle entry system using license plate recognition — real-time ANPR for parking gate control, access logging, and vehicle management |
 | [Smart Visitor Management System](https://github.com/Waqas649/Visitor) | Enterprise visitor management — face recognition check-in, access control, and analytics dashboard |
 | [RetinaFace Real-Time Webcam Face Detection](https://github.com/Waqas649/RetinaFace_WebCam) | Real-time face detection via webcam using RetinaFace — landmark detection, 30+ FPS, GPU support |
-| [UAV-Based Power Line Insulator Damage Detection](https://github.com/Waqas649/Power_Pole) | Real-time power line insulator damage and sag detection mounted on UAV — published work |
+| [UAV-Based Power Line Insulator Damage Detection](https://github.com/Waqas649/Power_Pole) | Real-time power line insulator damage and sag detection mounted on UAV |
 | [AI Garments Measurement & Size Recommendation System](https://github.com/Waqas649/Garments-Measurement-System) | Automated garment measurement and size recommendation using computer vision |
 | [Marathon Athlete Bib Recognition & Photo Segregation](https://github.com/Waqas649/Bib-Segregation) | Deep learning-based athlete bib number recognition and photo segregation — published at ICADET 2024 |
 | [Eyes for Humanity — Vision-Based Accessibility Tool](https://github.com/Waqas649/Eyes-for-Humanity) | Computer vision application for humanitarian and accessibility purposes |
