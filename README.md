@@ -78,7 +78,7 @@ A suite of three components built for RFID-based marathon race timing:
 - AI agents for automation, voice bots, and interactive user systems
 - n8n-based workflow automations; custom cost-effective TTS models
 
-**AI Engineer** — droppGroup, Islamabad · Nov 2024 – Jul 2025
+**AI Engineer** — droppGroup, New York *(Remote)* · Nov 2024 – Jul 2025
 - Agentic AI platforms for subjective AI workflows
 - Text/Image-to-3D, Image-to-Point-Cloud conversion, mesh reconstruction for 3D modeling
 - Facial recognition system with API integration framework
