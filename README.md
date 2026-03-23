@@ -25,56 +25,50 @@ AI Engineer with 3+ years building production-grade systems across **Agentic AI*
 
 ### Agentic AI & LLMs
 
-| Project | Description | Stack |
-|---|---|---|
-| [Multiagent AI Financial Analyst](https://github.com/Waqas649/multiagent_ai_financial_analyst) | A2A system using LangGraph — specialized agents cooperate to generate structured quarterly equity market reports with real market data | Python · LangGraph · LangChain · NVIDIA LLM · yfinance |
-| [Finance Analyst Frontend](https://github.com/Waqas649/finance_analyst_frontend) | Conversational frontend for the financial analyst system — SSE streaming, real-time agent activity feed, intent-aware chat | TypeScript · Next.js |
-| [AI Verification & RAG Matching Service](https://github.com/Waqas649/vc-ai-services) | AI verification & RAG matching engine for an investor-founder platform — multi-agent pipeline, microservices architecture | Python · FastAPI · PostgreSQL |
-| [AI-Powered PDF Processing & Document Intelligence](https://github.com/Waqas649/PDF_AI) | Content extraction, table recognition, document classification, and summarization over PDFs | Python · LangChain |
-| [ChatAI — Conversational AI Assistant](https://github.com/Waqas649/ChatAI) | Conversational AI system with intent classification, entity extraction, and multi-turn context management | Python |
-| [AiMax Lab — Company AI Portfolio Platform](https://github.com/Waqas649/aimax_lab) | AI portfolio and experimentation platform built for a company showcase — interactive dashboards | TypeScript |
-| [Tire Shop Conversational AI Agent](https://github.com/Waqas649/tire_shop) | Conversational AI agent for a tire shop — handles bookings, answers business queries, and assists customers via natural language | Python |
+| Project | Description |
+|---|---|
+| [Multiagent AI Financial Analyst](https://github.com/Waqas649/multiagent_ai_financial_analyst) | A2A system using LangGraph — specialized agents cooperate to generate structured quarterly equity market reports with real market data |
+| [Finance Analyst Frontend](https://github.com/Waqas649/finance_analyst_frontend) | Conversational frontend for the financial analyst system — SSE streaming, real-time agent activity feed, intent-aware chat |
+| [AI Verification & RAG Matching Service](https://github.com/Waqas649/vc-ai-services) | AI verification & RAG matching engine for an investor-founder platform — multi-agent pipeline, microservices architecture |
+| [AI-Powered PDF Processing & Document Intelligence](https://github.com/Waqas649/PDF_AI) | Content extraction, table recognition, document classification, and summarization over PDFs |
+| [ChatAI — Conversational AI Assistant](https://github.com/Waqas649/ChatAI) | Conversational AI system with intent classification, entity extraction, and multi-turn context management |
+| [AiMax Lab — Company AI Portfolio Platform](https://github.com/Waqas649/aimax_lab) | AI portfolio and experimentation platform built for a company showcase — interactive dashboards |
+| [Tire Shop Conversational AI Agent](https://github.com/Waqas649/tire_shop) | Conversational AI agent for a tire shop — handles bookings, answers business queries, and assists customers via natural language |
 
 ### Computer Vision
 
-| Project | Description | Stack |
-|---|---|---|
-| [Vehicle Detection, Tracking & ANPR](https://github.com/Waqas649/vehicle-detection-tracking-anpr) | Real-time vehicle detection, multi-object tracking (DeepSORT), and automatic number plate recognition for traffic monitoring | Python · YOLO · DeepSORT · EasyOCR · OpenCV |
-| [ANPR-Based Vehicle Parking Entry System](https://github.com/Waqas649/Metro-Gate-Entry) | Automated vehicle entry system using license plate recognition — real-time ANPR for parking gate control, access logging, and vehicle management | Python · OpenCV · FastAPI |
-| [Smart Visitor Management System](https://github.com/Waqas649/Visitor) | Enterprise visitor management — face recognition check-in, access control, and analytics dashboard | Python · HTML · PostgreSQL |
-| [RetinaFace Real-Time Webcam Face Detection](https://github.com/Waqas649/RetinaFace_WebCam) | Real-time face detection via webcam using RetinaFace — landmark detection, 30+ FPS, GPU support | Python · PyTorch · OpenCV |
-| [UAV-Based Power Line Insulator Damage Detection](https://github.com/Waqas649/Power_Pole) | Real-time power line insulator damage and sag detection mounted on UAV — published work | Python · YOLO · OpenCV |
-| [AI Garments Measurement & Size Recommendation System](https://github.com/Waqas649/Garments-Measurement-System) | Automated garment measurement and size recommendation using computer vision | Python · OpenCV |
-| [Marathon Athlete Bib Recognition & Photo Segregation](https://github.com/Waqas649/Bib-Segregation) | Deep learning-based athlete bib number recognition and photo segregation — published at ICADET 2024 | Python · PyTorch |
-| [Eyes for Humanity — Vision-Based Accessibility Tool](https://github.com/Waqas649/Eyes-for-Humanity) | Computer vision application for humanitarian and accessibility purposes | Python · OpenCV |
+| Project | Description |
+|---|---|
+| [Vehicle Detection, Tracking & ANPR](https://github.com/Waqas649/vehicle-detection-tracking-anpr) | Real-time vehicle detection, multi-object tracking (DeepSORT), and automatic number plate recognition for traffic monitoring |
+| [ANPR-Based Vehicle Parking Entry System](https://github.com/Waqas649/Metro-Gate-Entry) | Automated vehicle entry system using license plate recognition — real-time ANPR for parking gate control, access logging, and vehicle management |
+| [Smart Visitor Management System](https://github.com/Waqas649/Visitor) | Enterprise visitor management — face recognition check-in, access control, and analytics dashboard |
+| [RetinaFace Real-Time Webcam Face Detection](https://github.com/Waqas649/RetinaFace_WebCam) | Real-time face detection via webcam using RetinaFace — landmark detection, 30+ FPS, GPU support |
+| [UAV-Based Power Line Insulator Damage Detection](https://github.com/Waqas649/Power_Pole) | Real-time power line insulator damage and sag detection mounted on UAV — published work |
+| [AI Garments Measurement & Size Recommendation System](https://github.com/Waqas649/Garments-Measurement-System) | Automated garment measurement and size recommendation using computer vision |
+| [Marathon Athlete Bib Recognition & Photo Segregation](https://github.com/Waqas649/Bib-Segregation) | Deep learning-based athlete bib number recognition and photo segregation — published at ICADET 2024 |
+| [Eyes for Humanity — Vision-Based Accessibility Tool](https://github.com/Waqas649/Eyes-for-Humanity) | Computer vision application for humanitarian and accessibility purposes |
 
 ### Speech, Audio & TTS
 
-| Project | Description | Stack |
-|---|---|---|
-| [FastAPI Wrapper — KittenTTS](https://github.com/Waqas649/FastAPI-wrapper-KittenTTS) | Streamlit playground + FastAPI wrapper for cost-effective custom TTS models | Python · FastAPI · Streamlit |
-
-### Document Intelligence
-
-| Project | Description | Stack |
-|---|---|---|
-| [SmolDocling OCR](https://github.com/Waqas649/SmolDocling_OCR) | Lightweight OCR system using Docling — multi-format document processing and text extraction | Python · Docling |
+| Project | Description |
+|---|---|
+| [FastAPI Wrapper — KittenTTS](https://github.com/Waqas649/FastAPI-wrapper-KittenTTS) | Streamlit playground + FastAPI wrapper for cost-effective custom TTS models |
 
 ### Race Timing System (RTS)
 
 A suite of three components built for RFID-based marathon race timing:
 
-| Project | Description | Stack |
-|---|---|---|
-| [RTS Cloud — Race Timing Cloud Backend](https://github.com/Waqas649/RTS-Cloud) | Cloud backend for the race timing system — receives RFID data, stores results, and serves timing dashboards | JavaScript |
-| [RTS Reader — RFID to Cloud Data Bridge](https://github.com/Waqas649/RTS-Reader) | Connects RFID sensors to the cloud — reads runner tag data and streams it to the backend in real time | JavaScript |
-| [RTS NR — Local Race Timing Node](https://github.com/Waqas649/RTS_NR) | Local RFID-based race timing node — offline-capable timing for marathon checkpoints | JavaScript |
+| Project | Description |
+|---|---|
+| [RTS Cloud — Race Timing Cloud Backend](https://github.com/Waqas649/RTS-Cloud) | Cloud backend for the race timing system — receives RFID data, stores results, and serves timing dashboards |
+| [RTS Reader — RFID to Cloud Data Bridge](https://github.com/Waqas649/RTS-Reader) | Connects RFID sensors to the cloud — reads runner tag data and streams it to the backend in real time |
+| [RTS NR — Local Race Timing Node](https://github.com/Waqas649/RTS_NR) | Local RFID-based race timing node — offline-capable timing for marathon checkpoints |
 
 ### Educational
 
-| Project | Description | Stack |
-|---|---|---|
-| [Puddle to Palace — Educational Game](https://github.com/Waqas649/Puddle_to_Palace_Game) | Browser-based educational game turning learning challenges into interactive activities for kids | HTML · JavaScript · CSS |
+| Project | Description |
+|---|---|
+| [Puddle to Palace — Educational Game](https://github.com/Waqas649/Puddle_to_Palace_Game) | Browser-based educational game turning learning challenges into interactive activities for kids |
 
 ---
 
