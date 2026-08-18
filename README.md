@@ -26,11 +26,13 @@ AI Engineer with 3+ years building production-grade systems across **Agentic AI*
 
 | Project | Description |
 |---|---|
+| [AI Garment Measurement QC System](https://github.com/Waqas649/Garments-Measurement-System) | Computer vision-based garment measurement QC system that cut per-garment inspection time by 97% (3 min → 5 sec), replacing manual tape checks in apparel manufacturing |
+| [Datacenter Agentic AI — Inventory & Server Monitoring](https://github.com/Waqas649/datacenter-agent) | Agentic AI system for datacenter operations — automates inventory management and server monitoring, reducing manual routine-check effort |
 | [Multiagent AI Financial Analyst](https://github.com/Waqas649/multiagent_ai_financial_analyst) | A2A system using LangGraph — specialized agents cooperate to generate structured quarterly equity market reports with real market data |
 | [Finance Analyst Frontend](https://github.com/Waqas649/finance_analyst_frontend) | Conversational frontend for the financial analyst system — SSE streaming, real-time agent activity feed, intent-aware chat |
+| [Real Estate Agentic AI Platform](https://github.com/Waqas649/real-estate-agent) | Agentic AI application for the real estate market — optimizes decision-making, investment, and financial analysis using real-time market data |
 | [AI Verification & RAG Matching Service](https://github.com/Waqas649/vc-ai-services) | AI verification & RAG matching engine for an investor-founder platform — multi-agent pipeline, microservices architecture |
 | [AI-Powered PDF Processing & Document Intelligence](https://github.com/Waqas649/PDF_AI) | Content extraction, table recognition, document classification, and summarization over PDFs |
-| [ChatAI — Conversational AI Assistant](https://github.com/Waqas649/ChatAI) | Conversational AI system with intent classification, entity extraction, and multi-turn context management |
 | [AiMax Lab — Company AI Portfolio Platform](https://github.com/Waqas649/aimax_lab) | AI portfolio and experimentation platform built for a company showcase — interactive dashboards |
 | [Tire Shop Conversational AI Agent](https://github.com/Waqas649/tire_shop) | Conversational AI agent for a tire shop — handles bookings, answers business queries, and assists customers via natural language |
 
@@ -51,6 +53,7 @@ AI Engineer with 3+ years building production-grade systems across **Agentic AI*
 
 | Project | Description |
 |---|---|
+| [Audio Keyword Classification Pipeline](https://github.com/Waqas649/audio-keyword-classification) | Built an end-to-end audio classification pipeline — custom speech dataset with augmentation, MFCC feature engineering, and a custom CNN (~3.4M params) classifying 6 voice commands, optimized for real-time edge inference |
 | [FastAPI Wrapper — KittenTTS](https://github.com/Waqas649/FastAPI-wrapper-KittenTTS) | Streamlit playground + FastAPI wrapper for cost-effective custom TTS models |
 
 ### Race Timing System (RTS)
@@ -73,12 +76,18 @@ A suite of three components built for RFID-based marathon race timing:
 
 ## Experience
 
+**AI Engineer** — Freelance · Mar 2026 – Present
+- Computer vision garment measurement QC system — cut per-garment inspection time by 97% (3 min → 5 sec)
+- Agentic AI inventory management and server monitoring system for datacenter operations
+- Agentic AI application for real estate market — investment and financial decision-making
+- AI Finance Analyst web app generating on-demand quarterly market reports via conversational agent pipeline
+
 **AI Engineer** — Verified Connections, Australia *(Remote)* · Jul 2025 – Mar 2026
 - AI verification & RAG matching engine for investor-founder platform with multi-agent pipeline
 - AI agents for automation, voice bots, and interactive user systems
 - n8n-based workflow automations; custom cost-effective TTS models
 
-**AI Engineer** — droppGroup, New York *(Remote)* · Nov 2024 – Jul 2025
+**AI Engineer** — droppGroup, Islamabad *(Remote)* · Nov 2024 – Jul 2025
 - Agentic AI platforms for subjective AI workflows
 - Text/Image-to-3D, Image-to-Point-Cloud conversion, mesh reconstruction for 3D modeling
 - Facial recognition system with API integration framework
@@ -132,7 +141,7 @@ A suite of three components built for RFID-based marathon race timing:
 
 ## Education
 
-**M.S. Computer Engineering** — NUTECH, Islamabad *(2024 – Present, exp. 2026)*
+**M.S. Computer Engineering** — NUTECH, Islamabad *(2024 – 2026)*
 
 **B.S. Mechatronics Engineering** — Air University, Islamabad *(2020 – 2024, CGPA 3.37/4.00)*
 Final year project: robotics vision system for agricultural applications
